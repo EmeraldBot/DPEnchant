@@ -1,0 +1,94 @@
+Enchantments:
+  durability:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  protection_environmental:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  protection_fall:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  protection_fire:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  protection_explosions:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  protection_projectile:
+    1: 25
+    2: 50
+    3: 75
+    4: 100
+  oxygen:
+    1: 33
+    2: 66
+    3: 100
+  water_worker:
+    1: 100
+  thorns:
+    1: 33
+    2: 66
+    3: 100
+  damage_undead:
+    1: 20
+    2: 40
+    3: 60
+    4: 80
+    5: 100
+  damage_all:
+    1: 20
+    2: 40
+    3: 60
+    4: 80
+    5: 100
+  knockback:
+    1: 50
+    2: 100
+  damage_arthropods:
+    1: 20
+    2: 40
+    3: 60
+    4: 80
+    5: 100
+  loot_bonus_mobs:
+    1: 33
+    2: 66
+    3: 100
+  fire_aspect:
+    1: 50
+    2: 100
+  loot_bonus_blocks:
+    1: 33
+    2: 66
+    3: 100
+  dig_speed:
+    1: 20
+    2: 40
+    3: 60
+    4: 80
+    5: 100
+  silk_touch:
+    1: 100
+  arrow_infinite:
+    1: 100
+  arrow_fire:
+    1: 100
+  arrow_knockback:
+    1: 50
+    2: 100
+  arrow_damage:
+    1: 20
+    2: 40
+    3: 60
+    4: 80
+    5: 100

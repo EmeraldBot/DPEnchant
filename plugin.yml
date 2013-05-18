@@ -1,0 +1,9 @@
+name: DPEnchant
+depend: [DonationPoints, Vault]
+version: 1.0
+author: MistPhizzle
+description: Purchase Enchantments with DonationPoints.
+main: com.etriacraft.dpenchant.DPEnchant
+commands:
+  enchant:
+    usage: /<command>

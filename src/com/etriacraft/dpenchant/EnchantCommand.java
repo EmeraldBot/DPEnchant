@@ -108,7 +108,7 @@ public class EnchantCommand {
 						}
 
 						Methods.removePoints(price, s.getName());
-						Methods.logTransaction(s.getName(), price, packName, date, "true", "false", null, "false");
+						Methods.logTransaction(s.getName(), price, packName, date, "true", "false", null, "false", DonationPoints.instance.getConfig().getString("General.ServerName"));
 						is.addEnchantment(ench, level);
 						s.sendMessage("§cYou have purchased §3" + ench.getName().toLowerCase() + " " + Utils.toRomanNumeral(level) + "§c for §3" + price + " points§c.");
 						s.sendMessage("§aEnchanted your§e " + is.getType().name() + " §awith " + ench.getName() + " " + Utils.toRomanNumeral(level));
